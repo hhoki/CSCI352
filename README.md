@@ -1,5 +1,5 @@
 # CSCI352
-Kevin Austin, Hoki Joyner SWE Project\\
+Kevin Austin, Hoki Joyner SWE Project \
 Steps to Set up:
   Clone repository
     --Using Visual Studio Code, run $>npm run dev
