@@ -1,0 +1,8 @@
+const db = require("../config/db");
+
+
+class careplan {
+    //TODO : constructor, save, find, insert, update
+}
+
+module.exports = careplan;
