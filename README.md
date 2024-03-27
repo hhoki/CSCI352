@@ -6,7 +6,7 @@ Steps to Set up:\
 
 Project Layout:\
 +mysql-\
-  \folderDescription-Necessary mysql code for creating example schema of our database\
+  &nbsp;&nbsp;&nbsp;&nbsp;\folderDescription-Necessary mysql code for creating example schema of our database\
 +controllers\
   \folderDescription-\
 +models-\
